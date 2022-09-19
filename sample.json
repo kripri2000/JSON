@@ -1,0 +1,27 @@
+{
+ "employee" :
+	[
+		{
+			"name" : "krishnapriya",
+			"id" : 235925,
+			"location" : "trivandrum",
+			"preferences" :["development","cloud","devops"]
+		},
+		{
+			"name" : "akshay",
+			"id" : 235939,
+			"location":"trivandrum",
+			"preferences" : ["development","devops"]
+		}
+		
+	],
+	"manager" :
+	[
+		{
+			"name" : "adhwaith k",
+			"id" : 235768,
+			"location" : "trivandrum"
+		}
+	]
+
+}
